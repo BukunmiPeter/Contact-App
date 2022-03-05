@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Rubik+Beastly&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.contact-card {
+  display: flex;
+  padding: 10px;
+  color: #000000;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  border: 2px solid #052938;
+  max-width: 500px;
+  max-height: 125px;
+  margin-bottom: 10px;
+}
+
+.contact-card p {
+  margin-left: 10px;
+  margin-top: 0;
+}
+
+button {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
